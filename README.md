@@ -48,4 +48,6 @@
 
 **pip install -r requirements.txt**
 
+## CI/CD
 
+This project uses GitHub Actions for continuous integration and Render for deployment.
